@@ -192,7 +192,7 @@ their misconceptions may fall into three categories:
 *   *Broken models*, such as believing that motion and acceleration must be in the same direction.
     We can address these by having them reason through examples to see contradictions.
 *   *Fundamental beliefs*,
-    such as "the world is only a few thousand years old"
+    such as "the world is flat"
     or "human beings cannot be affecting the planet's climate".
     These usually cannot be addressed in class,
     since they are deeply connected to the learner's social identity
